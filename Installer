@@ -5,7 +5,7 @@ dnspython
 ffmpeg-python
 future
 git+https://github.com/pyrogram/pyrogram@master
-git+https://github.com/sakhaavvaavaj93/yt-dl@master
+git+https://github.com/MrAdityaXD/yt-dl@master
 motor
 pillow
 psutil
